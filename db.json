@@ -14,5 +14,36 @@
 				"ZoneName": "Living Room"
 			}
 		]
+	},
+	"masterzones": {
+		"MasterZoneName": "Level 1",
+		"siteID": 1,
+		"siteName": "My Home",
+		"MasterZoneStateID": 1,
+		"MasterZoneStateName": "ON",
+		"StandbyTemp": 18.20
+	},
+	"zone1": {
+		"MasterZoneID": 1,
+		"ZoneTypeID": 1,
+		"ZoneTypeName": "Radiator",
+		"ZoneName": "Kitchen",
+		"ZoneTemp": 18.45,
+		"DefaultTemp": 19.22,
+		"OverrideTemp": 20.22,
+		"OverrideTempTime": 1511779435,
+		"AdvanceTime": 1511773000
+	},
+	"zone2": {
+		"MasterZoneID": 2,
+		"ZoneTypeID": 1,
+		"ZoneTypeName": "Radiator",
+		"ZoneName": "Living Room",
+		"ZoneTemp": 18.45,
+		"DefaultTemp": 19.22,
+		"OverrideTemp": 20.22,
+		"OverrideTempTime": 1511779435,
+		"AdvanceTime": 1511773000
 	}
 }
+
