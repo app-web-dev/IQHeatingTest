@@ -1,16 +1,18 @@
 {
-	"Items": [
-		{
-			"ZoneID": 1,
-			"ZoneTypeID": 1,
-			"ZoneTypeName": "Radiator",
-			"ZoneName": "Kitchen"
-		},
-		{
-			"ZoneID": 2,
-			"ZoneTypeID": 1,
-			"ZoneTypeName": "Radiator",
-			"ZoneName": "Living Room"
-		}
-	]
+	"getzones": {
+		"Items": [
+			{
+				"ZoneID": 1,
+				"ZoneTypeID": 1,
+				"ZoneTypeName": "Radiator",
+				"ZoneName": "Kitchen"
+			},
+			{
+				"ZoneID": 2,
+				"ZoneTypeID": 1,
+				"ZoneTypeName": "Radiator",
+				"ZoneName": "Living Room"
+			}
+		]
+	}
 }
