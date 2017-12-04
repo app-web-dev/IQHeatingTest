@@ -15,6 +15,18 @@
 			}
 		]
 	},
+	"getmasterzones": {
+		"Items": [
+			{
+				"MasterZoneName": "Level 1",
+				"siteID": 1,
+				"siteName": "My Home",
+				"MasterZoneStateID": 1,
+				"MasterZoneStateName": "On",
+				"StandbyTemp": 18.20
+			}
+		]
+	},
 	"masterzones": {
 		"MasterZoneName": "Level 1",
 		"siteID": 1,
