@@ -18,9 +18,10 @@
 	"getmasterzones": {
 		"Items": [
 			{
+				"MasterZoneID": 1,
 				"MasterZoneName": "Level 1",
-				"siteID": 1,
-				"siteName": "My Home",
+				"SiteID": 1,
+				"SiteName": "My Home",
 				"MasterZoneStateID": 1,
 				"MasterZoneStateName": "On",
 				"StandbyTemp": 18.20
@@ -28,9 +29,10 @@
 		]
 	},
 	"masterzones": {
+		"MasterZoneID": 1,
 		"MasterZoneName": "Level 1",
-		"siteID": 1,
-		"siteName": "My Home",
+		"SiteID": 1,
+		"SiteName": "My Home",
 		"MasterZoneStateID": 1,
 		"MasterZoneStateName": "On",
 		"StandbyTemp": 18.20
